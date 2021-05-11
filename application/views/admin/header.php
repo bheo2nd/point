@@ -59,7 +59,7 @@
             <li class="nav-item">
                 <a class="nav-link" href="<?php echo base_url(); ?>user">
                     <i class="fas fa-fw fa-users"></i>
-                    <span>Tambah User Teller</span></a>
+                    <span>Tambah User</span></a>
             </li>
 
             <!-- Nav Item - Tables -->
